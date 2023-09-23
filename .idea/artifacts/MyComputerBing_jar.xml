@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyComputerBing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyComputerBing_jar</output-path>
+    <root id="archive" name="MyComputerBing.jar">
+      <element id="module-output" name="MyComputerBing" />
+    </root>
+  </artifact>
+</component>
